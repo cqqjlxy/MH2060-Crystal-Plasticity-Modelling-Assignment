@@ -1,6 +1,6 @@
 import damask
 
-result = damask.Result('Singlecrystal_1_16x16x16_Load_Material_a.hdf5')
+result = damask.Result('Singlecrystal_1_16x16x16_Load_Material_f.hdf5')
 result.add_stress_Cauchy()   # computes σ from stored P and F
 result.add_equivalent_Mises('sigma','stress')
 result.add_strain()          # computes logarithmic strain ε_V^0.0(F) from F
