@@ -1,0 +1,7 @@
+MH2060 Tutorial session on 7th May 2025
+
+python3 geom.ipynb      #Create the 3D Voronoi polycrystal with two grains on a grid of 16*16*16 voxels that spans a cubic volume of 10*10*10 (micron)^3
+
+DAMASK_grid  --load Load.yaml --material Material.yaml --geom Bicrystal_2_16x16x16.vti            #Simulate uniaxial tensile deformation using DAMASK spectral solver
+
+python3 postprocess.py                                                                            # Output the Cauchy stress, true strain
