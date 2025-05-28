@@ -1,0 +1,20 @@
+Poly + 2
+Average equivalent stress (von Mises): 9.921264e+07 Pa
+Average equivalent strain: 1.039728e-01
+
+Poly + 8
+Average equivalent stress (von Mises): 1.030704e+08 Pa
+Average equivalent strain: 1.064611e-01
+
+Poly + 16
+Average equivalent stress (von Mises): 1.010580e+08 Pa
+Average equivalent strain: 1.065277e-01
+
+Poly + 32
+Average equivalent stress (von Mises): 1.034206e+08 Pa
+Average equivalent strain: 1.065255e-01
+
+Poly + 64
+Average equivalent stress (von Mises): 1.043091e+08 Pa
+Average equivalent strain: 1.066203e-01
+

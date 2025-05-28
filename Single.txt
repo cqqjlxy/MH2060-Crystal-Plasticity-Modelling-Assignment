@@ -1,0 +1,24 @@
+Single + a
+Average equivalent stress (von Mises): 8.098777e+07 Pa
+Average equivalent strain: 9.519230e-02
+
+Single + b
+Average equivalent stress (von Mises): 8.098777e+07 Pa
+Average equivalent strain: 9.519230e-02
+
+Single + c
+Average equivalent stress (von Mises): 8.098777e+07 Pa
+Average equivalent strain: 9.519230e-02
+
+Single + d
+Average equivalent stress (von Mises): 1.225465e+08 Pa
+Average equivalent strain: 9.554210e-02
+
+Single + e
+Average equivalent stress (von Mises): 1.276134e+08 Pa
+Average equivalent strain: 9.648598e-02
+
+Single + f
+Average equivalent stress (von Mises): 1.280637e+08 Pa
+Average equivalent strain: 9.513427e-02
+
