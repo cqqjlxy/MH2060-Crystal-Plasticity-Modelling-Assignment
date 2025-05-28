@@ -31,5 +31,5 @@ material:
   - homogenization: SX
     constituents:
       - phase: Aluminum
-        v: 1.0
+        v: 1.0 
         O: [0.9238795325112867, 0.3826834323650898, 0.0, 0.0]
